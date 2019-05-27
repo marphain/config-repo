@@ -1,3 +1,2 @@
-dev:
-  param1: Hello World
-  param2: foo
+dev.param1: Hello World
+dev.param2: foo
