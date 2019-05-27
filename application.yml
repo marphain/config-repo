@@ -1,2 +1,3 @@
-param1:100
-parma2:200
+app:
+  param1:100
+  parma2:200
